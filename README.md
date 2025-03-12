@@ -1,5 +1,5 @@
 ```bash
-cd yc-csv-generator
+cd yc-companies-csv
 npm i
 npm run dev
 ```
