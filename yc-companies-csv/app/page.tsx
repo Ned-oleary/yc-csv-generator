@@ -1,7 +1,10 @@
 "use client";
 
 import { useState } from "react";
+
+// @ts-expect-error
 import { parse } from "json2csv";
+
 import { Download } from 'lucide-react';
 
 export default function Home() {
